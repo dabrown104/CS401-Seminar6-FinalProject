@@ -1,0 +1,11 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\MonkeyTap.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\MonkeyTap.pdb
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\obj\Debug\MonkeyTap.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\obj\Debug\MonkeyTap.MonkeyTapPage.xaml.g.cs
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\obj\Debug\MonkeyTap.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\obj\Debug\MonkeyTap.pdb

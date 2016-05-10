@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap.UWP\MonkeyTap.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-FinalProject\MonkeyTap\MonkeyTap\MonkeyTap\MonkeyTap.csproj;neutral
